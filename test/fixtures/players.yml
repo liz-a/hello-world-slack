@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  slack_name: MyString
+  slack_id: MyString
+  active_game: 1
+
+two:
+  slack_name: MyString
+  slack_id: MyString
+  active_game: 1
